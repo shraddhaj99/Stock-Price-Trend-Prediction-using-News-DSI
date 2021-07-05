@@ -1,1 +1,1 @@
-# Stock-Price-Trend-Prediction-using-News-DSI
+# Stock-Price-Prediction-News-Oriented
